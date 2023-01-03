@@ -1,0 +1,56 @@
+<html> 
+<head>
+<title>食譜</title>
+</head>
+<body>
+
+
+
+
+
+
+
+<h2>(二)肉醬義大利麵</h2>
+<img src="002.jpg" alt="Trulli" width="400" height="300">
+
+
+<p>配方
+<p>蒜頭	4~5粒
+<p>胡蘿蔔	1/2根
+<p>西芹	2根
+<p>洋蔥	1/2顆
+<p>番茄	1顆
+<p>絞肉	適量
+<p>九層塔	適量
+<p>義大利麵	1/6包
+<p>奶油	1塊
+<p>水	200cc
+<p>番茄醬	200cc
+<p>番茄糊	10公克
+<p>胡椒粉	適量
+<p>紅酒	適量
+
+<p>製作流程
+<p>蒜頭壓扁切碎，胡蘿蔔切碎，西芹切碎，洋蔥切碎，番茄剝皮切丁，絞肉改刀，九層塔切碎。
+<p>川燙義大利麵，加一點油；下一塊奶油，洋蔥、西芹、胡蘿蔔炒香，下絞肉、
+<p>紅酒適量炒到出油，下番茄、下200cc番茄醬、番茄糊10公克，加200cc水，下九層塔、下麵、調味，起鍋。
+
+
+<p>
+<a href="./1nml">首頁</a>
+<a href="./2nml">生菜沙拉佐甜菜根醬</a>
+<a href="./4nml">古典巧克力蛋糕</a>
+
+
+<audio controls>
+  <source src="horse.ogg" type="audio/ogg">
+  <source src="001.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
+
+
+
+
+</body>
+</html>
+
